@@ -6,4 +6,4 @@ Meu nome è Jackson Mandello
 - Estou me desenvolvendo na linguagem JavaScript
 - Utilizo esse espaço paar salvar meus projetos
 
-- 
+ 
